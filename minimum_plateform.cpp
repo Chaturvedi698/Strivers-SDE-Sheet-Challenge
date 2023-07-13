@@ -17,3 +17,4 @@ int calculateMinPatforms(int at[], int dt[], int n) {
     }
     return ans;
 }
+
